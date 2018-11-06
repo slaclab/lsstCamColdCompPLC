@@ -46,8 +46,11 @@ class PlutoGateway():
 
 
 
-#plutoGateway = PlutoGateway('192.168.1.150', 502)
-plutoGateway = PlutoGateway('192.168.1.152', 502)
+plutoGateway = PlutoGateway('192.168.1.150', 502)
+#plutoGateway = PlutoGateway('192.168.1.152', 502)
+#plutoGateway = PlutoGateway('192.168.1.154', 502)
+#plutoGateway = PlutoGateway('192.168.1.156', 502)
+#plutoGateway = PlutoGateway('192.168.1.158', 502)
 
 
 # Reset all registers to 0
